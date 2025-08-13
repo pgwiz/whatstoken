@@ -13,6 +13,6 @@
     }
   ],
   "env": {
-    "VERIFY_TOKEN": "@verify_token"
+    "VERIFY_TOKEN": "TEstToken"
   }
 }
