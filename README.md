@@ -6,7 +6,7 @@ A simple Express.js server to handle GET & POST webhook requests.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR-USERNAME/express-webhook.git
+git clone https://github.com/pgwiz/whatstoken.git
 cd express-webhook
 
 # Install dependencies
